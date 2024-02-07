@@ -1,9 +1,14 @@
-title: Zeina Roz # your name (or website title) here
+title: Michael Avelar # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
-  <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
+I'm a data driven software engineer with a passion for turning code into magic. 
+Whether it's crafting algorithms or conjuring insights from the depths of the data science world, 
+I'm the go to! Call me the Picasso of Data, where data tells a story. 💻✨ #DataDrivenDreamer 
+<br><br>
+I ❤️ data  
+<br><br>
+<a href="https://www.linkedin.com/in/michael-avelar/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  #CodeLife #DataDrivenDreamer
